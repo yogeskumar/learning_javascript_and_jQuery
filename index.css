@@ -1,0 +1,28 @@
+.myButton {
+  font-size: 25px;
+  width: 150px;
+  height: 100px;
+  color: aqua;
+  background-color: cornsilk;
+}
+
+.designH2 {
+  font-size: 100px;
+  color: white;
+  background-color: rgb(102, 102, 255);
+}
+
+.primaryButton {
+  background-color: black;
+  color: white;
+}
+
+#onlyInput {
+  width: 400px;
+  height: 40px;
+  text-align: center;
+}
+
+.forInput {
+  background-color: bisque;
+}
